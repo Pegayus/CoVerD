@@ -1,5 +1,5 @@
 # CoVerD: Community-based Vertex Defense against Crawling Adversaries
-This is the code for our ppaer, to appear in the proceedings of Complex Networks 2021.
+This is the code for our ppaer ```CoVerD```, to appear in the proceedings of Complex Networks 2021.
 
 ## Scripts under ```src```:
 * ```data_preprocessing.py```: Run this script seperately from the rest of the repo to prepare the dataset used by ```main.py```.
