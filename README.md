@@ -1,5 +1,5 @@
 # CoVerD: Community-based Vertex Defense against Crawling Adversaries
-This is the code for our proposed algorithm, CoVerD, that appeared in [the proceedings of Complex Networks 2021](https://www.springerprofessional.de/en/coverd-community-based-vertex-defense-against-crawling-adversari/19984022). CoVerD is a community-based approach that protects a given target node against crawling-based attacks in a network. CoVerD surpasses global network protectors on several benchmarks, while maintaining the computation cost close to that of the local network protectors. 
+This is the code for our paper [**CoVerD: Community-based Vertex Defense against Crawling Adversaries**](https://www.springerprofessional.de/en/coverd-community-based-vertex-defense-against-crawling-adversari/19984022) which appeared in the proceedings of Complex Networks 2021. CoVerD is a community-based approach that protects a given target node against crawling-based attacks in a network. CoVerD surpasses global network protectors on several benchmarks, while maintaining the computation cost close to that of the local network protectors. In this repository, you find both the python implementation for CoVerD and the scripts for reproducing our experiments.
 
 
 ## Scripts under ```src```:
